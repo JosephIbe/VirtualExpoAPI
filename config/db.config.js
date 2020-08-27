@@ -1,8 +1,9 @@
 module.exports = {
+    // mysql://bfe98bc1a49553:5c42c472@us-cdbr-east-02.cleardb.com/heroku_7efd1b56059081b?reconnect=true,
     HOST: 'us-cdbr-east-02.cleardb.com',
-    USER: 'b038a563b8771e',
-    PASSWORD: 'c7289028',
-    DB: 'heroku_a06d79786d6e259',
+    USER: 'bfe98bc1a49553',
+    PASSWORD: '5c42c472',
+    DB: 'heroku_7efd1b56059081b',
     // HOST: 'localhost',
     // USER: 'root',
     // PASSWORD: 'iam_darth007',
