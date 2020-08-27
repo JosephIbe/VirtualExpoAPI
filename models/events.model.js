@@ -19,7 +19,7 @@ Events.create = (newEvent, result) => {
 }
 
 Events.getAllEvents = (result) => {
-    sql.query(`select * from insert`, (err, res) => {
+    sql.query(`select * from events`, (err, res) => {
         if(err) {
             console.log(err);
             result(err, null);
