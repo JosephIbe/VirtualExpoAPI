@@ -1,5 +1,4 @@
 module.exports = {
-    // mysql://bfe98bc1a49553:5c42c472@us-cdbr-east-02.cleardb.com/heroku_7efd1b56059081b?reconnect=true,
     HOST: 'us-cdbr-east-02.cleardb.com',
     USER: 'bfe98bc1a49553',
     PASSWORD: '5c42c472',
